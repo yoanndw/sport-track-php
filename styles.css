@@ -1,0 +1,13 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    height: 3rem;
+    font-size: xx-large;
+}
+
+table, th, td {
+    border: 2mm ridge #1366A5;
+}
